@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-admin/index/mo-c-public-outcome-muschelschale97-vercel-app/","tags":["class/index","class/outcome"],"created":"2023-11-05T15:42:30.537+01:00","updated":"2023-11-05T17:34:01.210+01:00"}
+{"dg-publish":true,"permalink":"/00-admin/index/mo-c-public-outcome-muschelschale97-vercel-app/","tags":["class/index","class/outcome"],"created":"2023-11-05T15:42:30.537+01:00","updated":"2023-11-05T17:35:42.015+01:00"}
 ---
 
 
