@@ -1,14 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/00-admin/public-home/","tags":["class/outcome","gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-05T15:59:11.972+01:00"}
+{"dg-publish":true,"permalink":"/00-admin/public-home/","tags":["class/outcome","gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-05T16:15:02.477+01:00"}
 ---
+
+| [[00_Admin/_INDEX/Über mich\|Über mich]] | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]] |
 
 # Public Home 
 Im Sinne von [[60_People/Nick Milo\|Nick Milo]] und seinem [[10_Zettel/LYT approach\|LYT approach]] ist dies der zentrale Knoten im Geflecht des sogenannten *Second Brain*[^1].
 
 Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **veröffentlichten** Gedankensalat[^2]. 
 
-Mein veröffentlichter Gedankensalat stellt sich dtrukturell wie folgt dar
-
+Mein veröffentlichter Gedankensalat stellt sich strukturell wie folgt dar:
 ## INHALT
 - [Lernreisen](#lernreisen)
 - [Themen](#themen)
