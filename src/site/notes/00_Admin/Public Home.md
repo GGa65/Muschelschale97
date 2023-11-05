@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-admin/public-home/","tags":["class/outcome","gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-05T15:57:20.569+01:00"}
+{"dg-publish":true,"permalink":"/00-admin/public-home/","tags":["class/outcome","gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-05T15:59:11.972+01:00"}
 ---
 
 # Public Home 
@@ -9,7 +9,7 @@ Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **ve
 
 Mein veröffentlichter Gedankensalat stellt sich dtrukturell wie folgt dar
 
-**Inhalt**
+## INHALT
 - [Lernreisen](#lernreisen)
 - [Themen](#themen)
 
