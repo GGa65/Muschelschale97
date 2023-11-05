@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/81-gardening/public-home/","tags":["gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-05T14:30:08.506+01:00"}
+{"dg-publish":true,"permalink":"/81-gardening/public-home/","tags":["gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-05T14:35:45.960+01:00"}
 ---
 
 # Public Home 
@@ -18,7 +18,7 @@ Im Sinne von [[60_People/Nick Milo\|Nick Milo]] und seinem [[10_Zettel/LYT appro
 ## Themen
 > Ich bin ein vielseitig interessierter Mensch. Diese Vielseitigkeit ist einerseits schön, andererseits eine Herausforderung, weil es einen allzuoft allzusehr thematisch springen lässt.
 
-
+- Portfolioarbeit
 
 
 
