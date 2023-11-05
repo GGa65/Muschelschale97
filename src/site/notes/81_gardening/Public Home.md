@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/81-gardening/public-home/","tags":["gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-05T14:19:07.069+01:00"}
+{"dg-publish":true,"permalink":"/81-gardening/public-home/","tags":["gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-05T14:22:01.419+01:00"}
 ---
 
-# Garden Home
+# Public Home 
 
 Die Garden Home Notiz ist der zentrale Einstiegspunkt in meinen veröffentlichten Gedankensalat.
 Im Sinne von [[60_People/Nick Milo\|Nick Milo]] und seinem [[10_Zettel/LYT approach\|LYT approach]] ist dies der zentrale Knoten im Geflecht des sogenannten Second Brain.
