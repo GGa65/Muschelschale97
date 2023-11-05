@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/81-gardening/public-home/","tags":["gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-05T14:29:28.410+01:00"}
+{"dg-publish":true,"permalink":"/81-gardening/public-home/","tags":["gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-05T14:30:08.506+01:00"}
 ---
 
 # Public Home 
@@ -20,6 +20,6 @@ Im Sinne von [[60_People/Nick Milo\|Nick Milo]] und seinem [[10_Zettel/LYT appro
 
 
 
----
+
 
 [^1]: Second Brain geht auf das von [[60_People/Tiago Forte\|Tiago Forte]] veröffentlichte Buch Build your second brain" zurück.
