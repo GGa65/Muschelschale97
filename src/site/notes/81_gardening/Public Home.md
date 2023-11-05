@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/81-gardening/public-home/","tags":["gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-05T14:23:28.400+01:00"}
+{"dg-publish":true,"permalink":"/81-gardening/public-home/","tags":["gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-05T14:28:49.260+01:00"}
 ---
 
 # Public Home 
 
 Die Garden Home Notiz ist der zentrale Einstiegspunkt in meinen veröffentlichten Gedankensalat.
-Im Sinne von [[60_People/Nick Milo\|Nick Milo]] und seinem [[10_Zettel/LYT approach\|LYT approach]] ist dies der zentrale Knoten im Geflecht des sogenannten Second Brain.
+Im Sinne von [[60_People/Nick Milo\|Nick Milo]] und seinem [[10_Zettel/LYT approach\|LYT approach]] ist dies der zentrale Knoten im Geflecht des sogenannten *Second Brain*[^1].
 
 ## Lernreisen
 > Ich unternehme Lernreisen. Lernreisen sind Zyklen virtueller oder Präsenz-Treffen mit am selben Thema interessierten Menschen um gemeinsam zu lernen.
@@ -17,3 +17,9 @@ Im Sinne von [[60_People/Nick Milo\|Nick Milo]] und seinem [[10_Zettel/LYT appro
 
 ## Themen
 > Ich bin ein vielseitig interessierter Mensch. Diese Vielseitigkeit ist einerseits schön, andererseits eine Herausforderung, weil es einen allzuoft allzusehr thematisch springen lässt.
+
+
+
+---
+###### Fußnoten
+[^1]: Second Brain geht auf das von [[60_People/Tiago Forte\|Tiago Forte]] veröffentlichte Buch Build your second brain" zurück.
