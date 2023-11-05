@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/81-gardening/public-home/","tags":["gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-05T14:35:45.960+01:00"}
+{"dg-publish":true,"permalink":"/81-gardening/public-home/","tags":["class/outcome","gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-05T14:38:52.539+01:00"}
 ---
 
 # Public Home 
