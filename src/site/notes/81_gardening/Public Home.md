@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/81-gardening/public-home/","tags":["class/outcome","gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-05T14:38:52.539+01:00"}
+{"dg-publish":true,"permalink":"/81-gardening/public-home/","tags":["class/outcome","gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-05T14:41:13.886+01:00"}
 ---
 
 # Public Home 
@@ -13,12 +13,13 @@ Im Sinne von [[60_People/Nick Milo\|Nick Milo]] und seinem [[10_Zettel/LYT appro
 - Herbst 2023: [[80_outcome/Lernreise über E-Portfolios\|Lernreise über E-Portfolios]]
 - Sommer 2023: [[Lernreise 2 Zettelkasten\|Lernreise 2 Zettelkasten]]
 - Frühjahr 2023: [[Lernreise 1 Zettelkasten\|Lernreise 1 Zettelkasten]]
-- Herbst 2022: [[Lernreise Digitale Zusammenarbeit\|Lernreise Digitale Zusammenarbeit]]
+- Herbst 2022: [[81_gardening/Lernreise Digitale Zusammenarbeit\|Lernreise Digitale Zusammenarbeit]]
 
 ## Themen
 > Ich bin ein vielseitig interessierter Mensch. Diese Vielseitigkeit ist einerseits schön, andererseits eine Herausforderung, weil es einen allzuoft allzusehr thematisch springen lässt.
 
-- Portfolioarbeit
+- [[Portfolioarbeit\|Portfolioarbeit]]
+- 
 
 
 
