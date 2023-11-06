@@ -33,8 +33,13 @@ Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **ve
 - **[[00_Admin/_INDEX/MoC - Lernreisen\|MoC - Lernreisen]]** - ein Verzeichnis meiner Lernpfade
 
 
+**Zur Frage der Öffentlichkeit / Nicht-Öffentlichkeit**:
+
+> [!quote] „Es liegt natürlich immer bei Ihnen, welches Medium Sie für Ihre Notizen wählen, **aber denken Sie daran, dass auch Ihr zweites Gehirn privat ist**. Sie können bestimmte Notizen teilen, wenn Sie das wollen, aber **standardmäßig ist alles Niedergeschriebene ausschließlich für Sie selbst bestimmt**.“ 
+> 
+> (Tiago Forte in "Nutzen Sie ihr zweites Gehirn", 2023, S. 67) 
 
 
 
-[^1]: Second Brain geht auf das von [[60_People/Tiago Forte\|Tiago Forte]] veröffentlichte Buch Build your second brain" zurück.
+[^1]: Der Begriff **Second Brain** geht nach meinem Verständnis auf das von [[60_People/Tiago Forte\|Tiago Forte]] veröffentlichte Buch "Build your second brain" bzw. "Nutzen Sie ihr zweites Gehirn" zurück.
 [^2]: Diese Aussage impliziert, dass es daneben einen **nicht veröffentlichten** Gedankensalat gibt. Und ja, das ist genau so 😉! Nur wird man den natürlch hier in der Öffentlichkeit nicht. finden.
