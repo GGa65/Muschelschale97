@@ -6,7 +6,7 @@
 
 > [!CALLOUT]   **Über das Projekt**
 > 
-> Das Projekt **GGa65 Public** wird als Test eines [[Digital Garden\|Digital Garden]]s verstanden, dass GGa65 (siehe [[00_Admin/_INDEX/Über mich\|Über mich]]) auf der Basis seines PKM Systems veröffentlicht.
+> Das Projekt **GGa65 Public** wird als Test eines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s verstanden, dass GGa65 (siehe [[00_Admin/_INDEX/Über mich\|Über mich]]) auf der Basis seines PKM Systems veröffentlicht.
 > 
 > Es ist der Versuch, sich persönlich mit effizienten Techniken der Veröffentlichung von Ausschnitten aus dem eigenen PKM System[^1] auseinanderzusetzen und diese Techniken einzuüben.
 > 
