@@ -38,13 +38,8 @@ Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **ve
 > 	- **[[Ins Leere führender Links\|Ins Leere führender Links]]** 
 > 
 
-
-
-
-
----
-## Zum Index >> [[00_Admin/_INDEX/MoC - Index GGa65 public\|MoC - Index GGa65 public]]
-
+## [[00_Admin/_INDEX/MoC - Index GGa65 public\|MoC - Index GGa65 public]]
+... über den Link in der Überschrift springt man zum Index meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s
 
 
 
