@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09-sources/tiago-forte-nutzen-sie-ihr-zweites-gehirn/","tags":["class/sourceNote"],"created":"2023-11-06T08:24:48.607+01:00","updated":"2023-11-06T08:47:24.944+01:00"}
+{"dg-publish":true,"permalink":"/09-sources/tiago-forte-nutzen-sie-ihr-zweites-gehirn/","tags":["class/sourceNote"],"noteIcon":""}
 ---
 
 --- 
