@@ -9,6 +9,7 @@
 | -------------------------------------------------------------------------------------------------------------- | ------------------- | ----------------- |
 | [[Public Home\|Public Home]]                                                                                |                     | November 05, 2023 |
 | [[00_Admin/_INDEX/MoC - Index GGa65 public\|MoC - Index GGa65 public]]                                      | 00_Admin/_INDEX     | November 05, 2023 |
+| [[00_Admin/_INDEX/MoC - Lernreisen\|MoC - Lernreisen]]                                                      | 00_Admin/_INDEX     | October 20, 2023  |
 | [[00_Admin/_INDEX/MoC - Sources\|MoC - Sources]]                                                            | 00_Admin/_INDEX     | October 13, 2023  |
 | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]]                                                      | 00_Admin/_INDEX     | November 05, 2023 |
 | [[00_Admin/_INDEX/Über mich\|Über mich]]                                                                    | 00_Admin/_INDEX     | November 05, 2023 |
