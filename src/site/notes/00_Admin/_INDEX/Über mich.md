@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/00-admin/index/ueber-mich/","tags":["class/outcome"],"created":"2023-11-05T16:16:13.477+01:00","updated":"2023-11-06T07:37:39.396+01:00"}
+{"dg-publish":true,"permalink":"/00-admin/index/ueber-mich/","tags":["class/outcome"],"created":"2023-11-05T16:16:13.477+01:00","updated":"2023-11-06T10:22:21.292+01:00"}
 ---
 
 > [!INFO]   **Über mich**
 > 
 > Ich bin GGa, GGa65 oder Muschelschale97, ganz wie es beliebt.
 > 
-> Ich bin ein weißer Mann und Deutscher, Jahrgang 1965 und erkläre im Vollbesitz meiner Sinne: Dafür kann ich nichts und dazu stehe ich! 
+> Ich bin ein weißer Mann und Deutscher, Jahrgang 1965 und erkläre im Vollbesitz meiner Sinne: Dafür kann ich nichts und dazu stehe ich! Ich meine, es ist kein eigenes Verdienst, Deutscher von Geburt zu sein oder als Nachkomme weißer Menschen ebenfalls weiß zu sein.  
 > 
 > Ich bin verheiratet und Vater zweier ganz wunderbar geratenen Töchter. Dafür kann ich was, und sie sind beide das Beste, was mir je passiert ist.
 > 
