@@ -7,7 +7,7 @@
 
 | Notiz                                                                                    | Ort             | Erstellt          |
 | ---------------------------------------------------------------------------------------- | --------------- | ----------------- |
-| [[00_Admin/Public Home\|Public Home]]                                                 | 00_Admin        | November 05, 2023 |
+| [[Public Home\|Public Home]]                                                          |                 | November 05, 2023 |
 | [[00_Admin/_INDEX/MoC - Index GGa65 public\|MoC - Index GGa65 public]]                | 00_Admin/_INDEX | November 05, 2023 |
 | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]]                                | 00_Admin/_INDEX | November 05, 2023 |
 | [[00_Admin/_INDEX/Über mich\|Über mich]]                                              | 00_Admin/_INDEX | November 05, 2023 |
