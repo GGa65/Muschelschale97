@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-home/","tags":["class/outcome","gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-06T08:44:23.748+01:00"}
+{"dg-publish":true,"permalink":"/public-home/","tags":["class/outcome","gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-06T10:08:11.400+01:00"}
 ---
 
 | [[00_Admin/_INDEX/Über mich\|Über mich]] | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]] |
@@ -11,11 +11,9 @@ Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **ve
 
 > [!idea] Mein offentlicher Gedankensalat strukturiert sich wie folgt:
 > **Table of Content**
-> - [Lernreisen](#lernreisen) 
-> - [Themen](#themen)
-> 
->   
-
+>1. [Lernreisen](#lernreisen) 
+>2. [Themen](#themen) 
+>3. [PKM-Setup](#pkm-setup)
 
 ## Lernreisen
 > Ich unternehme Lernreisen. Lernreisen sind Zyklen virtueller oder Präsenz-Treffen mit am selben Thema interessierten Menschen um gemeinsam zu lernen.
@@ -28,8 +26,16 @@ Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **ve
 ## Themen
 > Ich bin ein vielseitig interessierter Mensch. Diese Vielseitigkeit ist einerseits schön, andererseits eine Herausforderung, weil es einen allzuoft allzusehr thematisch springen lässt.
 
-- [[Portfolioarbeit\|Portfolioarbeit]]
+- [[Thema 1\|Thema 1]]
 - 
+
+## PKM-Setup
+
+> Ein paar erklärende Worte über das Setup dieses öffentlichen Gedankensalats erscheinen angebracht, nicht jeder/jedem ist dieser Hintergrund und die Technik dahinter sofort einleuchtend. 
+> - **[[Die Struktur meines PKM\|Die Struktur meines PKM]]**  
+> 	- **[[Ins Leere führender Links\|Ins Leere führender Links]]** 
+> 
+
 
 
 
