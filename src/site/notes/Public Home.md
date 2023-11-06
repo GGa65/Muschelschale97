@@ -24,7 +24,8 @@ Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **ve
 - **[[00_Admin/_INDEX/MoC - Projekte\|MoC - Projekte]]** - ein (nicht öffentliches) Verzeichnis meiner Projekte auf der Arbeit 
 
 **ZETTELKASTEN / PKM** (nicht alles öffentlich)
-- **MoC - Personen** - im persönlichen PKM System führe ich Personennotizen, in denen ich per Dataview die Begegnungen mit der Person notiere (Gespräche, Meetings etc.) - das ist natürlich nicht öffentlich 😉!
+- **[[00_Admin/_INDEX/MoC - People\|MoC - People]]** - im persönlichen PKM System führe ich Personennotizen, in denen ich per Dataview die Begegnungen mit der Person notiere (Gespräche, Meetings etc.) - das ist natürlich nicht öffentlich 😉!
+	- [[00_Admin/_INDEX/MoC - Public Person's Index\|MoC - Public Person's Index]] - ein Verzeichnis jener Personen aus meinem PKM, über die ich hier getrost meine Notizen zu ihnen veröffentlichen kann ...
 - **[[00_Admin/_INDEX/MoC - Domains\|MoC - Domains]]** - ein Verzeichnis auf die Ontologie im Vault
 - **[[00_Admin/_INDEX/MoC - Sources\|MoC - Sources]]** - ein Verzeichnis im Vault gesammelte Quellen-Notizen
 - MoC - Terms - eine noch zu verarbeitende Idee #todo/follow-up 
