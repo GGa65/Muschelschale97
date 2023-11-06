@@ -15,8 +15,10 @@
 | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]]                                                      | 00_Admin/_INDEX     | November 05, 2023 |
 | [[00_Admin/_INDEX/Über mich\|Über mich]]                                                                    | 00_Admin/_INDEX     | November 05, 2023 |
 | [[09_Sources/Tiago Forte - "Nutzen Sie Ihr zweites Gehirn"\|Tiago Forte - "Nutzen Sie Ihr zweites Gehirn"]] | 09_Sources          | November 06, 2023 |
+| [[60_People/Birgit Kelle\|Birgit Kelle]]                                                                    | 60_People           | November 06, 2023 |
 | [[60_People/Nick Milo\|Nick Milo]]                                                                          | 60_People           | May 11, 2023      |
 | [[70_Ressources/Terms/Digital Garden\|Digital Garden]]                                                      | 70_Ressources/Terms | November 06, 2023 |
+| [[70_Ressources/Terms/Frausein\|Frausein]]                                                                  | 70_Ressources/Terms | November 06, 2023 |
 | [[80_outcome/Der Begriff des Portfolios\|Der Begriff des Portfolios]]                                       | 80_outcome          | October 15, 2023  |
 | [[80_outcome/Lernreise über E-Portfolios\|Lernreise über E-Portfolios]]                                     | 80_outcome          | October 15, 2023  |
 | [[81_gardening/Lernreise Digitale Zusammenarbeit\|Lernreise Digitale Zusammenarbeit]]                       | 81_gardening        | November 05, 2023 |
