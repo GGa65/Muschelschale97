@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/81-gardening/lernreise-digitale-zusammenarbeit/","tags":["class/outcome","class/note","class/lernreise"],"created":"2023-11-05T14:59:52.000+01:00","updated":"2023-11-06T07:37:36.344+01:00"}
+{"dg-publish":true,"permalink":"/81-gardening/lernreise-digitale-zusammenarbeit/","tags":["class/outcome","class/note","class/lernreise"],"noteIcon":""}
 ---
 
 In den letzten vier Monaten des Jahres 2022 habe ich an einem – für mich als Experiment wahrgenommenen – **Learning Circle** teilgenommen. Einem Lernformat, welches durch die von meinem Arbeitgeber gemeinsam mit anderen Unternehmen und der Cogneon GmbH ins Leben gerufen worden ist. Dabei trifft man sich unternehmensgrenzen-übergreifend zu verschiedenen Themen, eben in einem Lernzirkel. 
