@@ -5,7 +5,9 @@
 
 ## Über Nick Milo
 
-ChatGPT hat mir am 2023-05-11 verraten, wer Nick Milo ist:
+Ich bin faul, und befrage deshab einfach ChatGPT danach, wer denn Nick Milo sei.
+
+**ChatGPT** hat mir am 2023-05-11 verraten, wer Nick Milo ist:
 
 - Nick Milo ist ein amerikanischer **Produktivitätstrainer** und der **Schöpfer der "Linking Your Thinking"-Methode** (siehe [[10_Zettel/LYT approach\|LYT approach]], die darauf abzielt, komplexe Informationen durch die Verwendung von Mind Maps und anderen visuellen Techniken zu organisieren.
 - ... keine genauen Informationen über seinen Lebensweg: aber ich habe in Erinnerung, dass er ein ehemaliger Polizist und Manager war, bevor er sich dem Bereich der Produktivität und des Lernens widmete. 
@@ -17,7 +19,6 @@ ChatGPT hat mir am 2023-05-11 verraten, wer Nick Milo ist:
 
 ## Und was sagt uns das Internet über die Qualität seiner Reden, Schulungen und Workshops?
 
----
 **Chat GPT antwortet** wie folgt (2023-05-11, die Hervorhebungen stammen von mir):
 - Die **öffentliche Meinung** über die Qualität von Nick Milos Reden, Schulungen und Workshops **ist gemischt**. 
 - Einige Leute finden, dass seine Methoden und Techniken **sehr hilfreich** sind und ihnen geholfen haben, ihre Produktivität und ihr Lernen zu verbessern, während andere seine Ansätze **nicht** als **besonders innovativ oder wirkungsvoll** empfinden.
