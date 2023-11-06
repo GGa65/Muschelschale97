@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-home/","tags":["class/outcome","gardenEntry","gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-06T10:08:11.400+01:00"}
+{"dg-publish":true,"permalink":"/public-home/","tags":["class/outcome","gardenEntry"],"noteIcon":"","created":"2023-11-05"}
 ---
 
 | [[00_Admin/_INDEX/Über mich\|Über mich]] | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]] |
@@ -7,14 +7,16 @@
 # Public Home 
 Im Sinne von [[60_People/Nick Milo\|Nick Milo]] und seinem [[10_Zettel/LYT approach\|LYT approach]] ist dies der zentrale Knoten im Geflecht des sogenannten *Second Brain*[^1].
 
-Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **veröffentlichten** Gedankensalat[^2]. 
+Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **veröffentlichten** Gedankensalat[^2]. Und mein veröffentlichter Gedankensalat ist **Mein [[70_Ressources/Terms/Digital Garden\|Digital Garden]]**.
 
-> [!idea] Mein offentlicher Gedankensalat strukturiert sich wie folgt:
+--- 
+> [!idea] Mein [[70_Ressources/Terms/Digital Garden\|Digital Garden]] strukturiert sich wie folgt:
 > **Table of Content**
 >1. [Lernreisen](#lernreisen) 
 >2. [Themen](#themen) 
 >3. [PKM-Setup](#pkm-setup)
 
+---
 ## Lernreisen
 > Ich unternehme Lernreisen. Lernreisen sind Zyklen virtueller oder Präsenz-Treffen mit am selben Thema interessierten Menschen um gemeinsam zu lernen.
 
@@ -35,6 +37,13 @@ Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **ve
 > - **[[Die Struktur meines PKM\|Die Struktur meines PKM]]**  
 > 	- **[[Ins Leere führender Links\|Ins Leere führender Links]]** 
 > 
+
+
+
+
+
+---
+## Zum Index >> [[00_Admin/_INDEX/MoC - Index GGa65 public\|MoC - Index GGa65 public]]
 
 
 
