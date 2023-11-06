@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-home/","tags":["class/outcome","gardenEntry","gardenEntry"],"noteIcon":"","created":"2023-11-05"}
+{"dg-publish":true,"permalink":"/public-home/","tags":["class/outcome","gardenEntry"],"noteIcon":"","created":"2023-11-05"}
 ---
 
 | [[00_Admin/_INDEX/Über mich\|Über mich]] | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]] |
@@ -10,36 +10,29 @@ Im Sinne von [[60_People/Nick Milo\|Nick Milo]] und seinem [[10_Zettel/LYT appro
 Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **veröffentlichten** Gedankensalat[^2]. Und mein veröffentlichter Gedankensalat ist **Mein [[70_Ressources/Terms/Digital Garden\|Digital Garden]]**.
 
 --- 
-> [!idea] Mein [[70_Ressources/Terms/Digital Garden\|Digital Garden]] strukturiert sich wie folgt:
-> **Table of Content**
->1. [Lernreisen](#lernreisen) 
->2. [Themen](#themen) 
->3. [PKM-Setup](#pkm-setup)
+> [!idea] Mein [[70_Ressources/Terms/Digital Garden\|Digital Garden]] strukturiert sich wie folgt
 
----
-## Lernreisen
-> Ich unternehme Lernreisen. Lernreisen sind Zyklen virtueller oder Präsenz-Treffen mit am selben Thema interessierten Menschen um gemeinsam zu lernen.
+**ADMIN** (nicht alles öffentlich)
+- MoC - Ziele (public) #todo/follow-up 
+- **[[00_Admin/_INDEX/MoC - FOLLOW UP\|MoC - FOLLOW UP]]:** `#todo/follow-up` - das Follow-Up-Verzeichnis
+- **[[00_Admin/_INDEX/MoC - TASKS\|MoC - TASKS]]** - das Aufgabenverzeichnis
 
-- Herbst 2023: [[80_outcome/Lernreise über E-Portfolios\|Lernreise über E-Portfolios]]
-- Sommer 2023: [[Lernreise 2 Zettelkasten\|Lernreise 2 Zettelkasten]]
-- Frühjahr 2023: [[Lernreise 1 Zettelkasten\|Lernreise 1 Zettelkasten]]
-- Herbst 2022: [[81_gardening/Lernreise Digitale Zusammenarbeit\|Lernreise Digitale Zusammenarbeit]]
+**PROJEKTE** 
+- **DIGITAL GARDEN**: **[[00_Admin/_INDEX/MoC - Index GGa65 public\|MoC - Index GGa65 public]]** - der Index meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s
+- **lebenslaenglich-lernen.de**: [Ein Lernen-Blog von Gerald G. (lebenslaenglich-lernen.de)](https://lebenslaenglich-lernen.de/)  
+- **[Muschelschale97 ist GGa's Blog – "de omnibus dubitandum"](https://muschelschale97.de/)**
+- **MoC - Projekte** - ein (nicht öffentliches) Verzeichnis meiner Projekte auf der Arbeit 
 
-## Themen
-> Ich bin ein vielseitig interessierter Mensch. Diese Vielseitigkeit ist einerseits schön, andererseits eine Herausforderung, weil es einen allzuoft allzusehr thematisch springen lässt.
+**ZETTELKASTEN / PKM** (nicht alles öffentlich)
+- **MoC - Personen** - im persönlichen PKM System führe ich Personennotizen, in denen ich per Dataview die Begegnungen mit der Person notiere (Gespräche, Meetings etc.) - das ist natürlich nicht öffentlich 😉!
+- **[[00_Admin/_INDEX/MoC - Domains\|MoC - Domains]]** - ein Verzeichnis auf die Ontologie im Vault
+- **[[00_Admin/_INDEX/MoC - Sources\|MoC - Sources]]** - ein Verzeichnis im Vault gesammelte Quellen-Notizen
+- MoC - Terms - eine noch zu verarbeitende Idee #todo/follow-up 
 
-- [[Thema 1\|Thema 1]]
-- 
+**LERNEN**
+- **[[00_Admin/_INDEX/MoC - Lernreisen\|MoC - Lernreisen]]** - ein Verzeichnis meiner Lernpfade
 
-## PKM-Setup
 
-> Ein paar erklärende Worte über das Setup dieses öffentlichen Gedankensalats erscheinen angebracht, nicht jeder/jedem ist dieser Hintergrund und die Technik dahinter sofort einleuchtend. 
-> - **[[Die Struktur meines PKM\|Die Struktur meines PKM]]**  
-> 	- **[[Ins Leere führender Links\|Ins Leere führender Links]]** 
-> 
-
-## [[00_Admin/_INDEX/MoC - Index GGa65 public\|MoC - Index GGa65 public]]
-... über den Link in der Überschrift springt man zum Index meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s
 
 
 
