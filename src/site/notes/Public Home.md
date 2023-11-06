@@ -21,7 +21,7 @@ Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **ve
 - **DIGITAL GARDEN**: **[[00_Admin/_INDEX/MoC - Index GGa65 public\|MoC - Index GGa65 public]]** - der Index meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s
 - **lebenslaenglich-lernen.de**: [Ein Lernen-Blog von Gerald G. (lebenslaenglich-lernen.de)](https://lebenslaenglich-lernen.de/)  
 - **[Muschelschale97 ist GGa's Blog – "de omnibus dubitandum"](https://muschelschale97.de/)**
-- **MoC - Projekte** - ein (nicht öffentliches) Verzeichnis meiner Projekte auf der Arbeit 
+- **[[00_Admin/_INDEX/MoC - Projekte\|MoC - Projekte]]** - ein (nicht öffentliches) Verzeichnis meiner Projekte auf der Arbeit 
 
 **ZETTELKASTEN / PKM** (nicht alles öffentlich)
 - **MoC - Personen** - im persönlichen PKM System führe ich Personennotizen, in denen ich per Dataview die Begegnungen mit der Person notiere (Gespräche, Meetings etc.) - das ist natürlich nicht öffentlich 😉!
