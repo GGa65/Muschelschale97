@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-admin/index/ueber-mich/","tags":["class/outcome"],"created":"2023-11-05T16:16:13.477+01:00","updated":"2023-11-06T10:22:21.292+01:00"}
+{"dg-publish":true,"permalink":"/00-admin/index/ueber-mich/","tags":["class/outcome"],"noteIcon":""}
 ---
 
 > [!INFO]   **Über mich**
