@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-home/","tags":["class/outcome","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-06T07:37:38.141+01:00"}
+{"dg-publish":true,"permalink":"/public-home/","tags":["class/outcome","gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-06T08:44:23.748+01:00"}
 ---
 
 | [[00_Admin/_INDEX/Über mich\|Über mich]] | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]] |
@@ -9,10 +9,12 @@ Im Sinne von [[60_People/Nick Milo\|Nick Milo]] und seinem [[10_Zettel/LYT appro
 
 Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **veröffentlichten** Gedankensalat[^2]. 
 
-Mein veröffentlichter Gedankensalat stellt sich strukturell wie folgt dar:
-## INHALT
-- [Lernreisen](#lernreisen)
-- [Themen](#themen)
+> [!idea] Mein offentlicher Gedankensalat strukturiert sich wie folgt:
+> **Table of Content**
+> - [Lernreisen](#lernreisen) 
+> - [Themen](#themen)
+> 
+>   
 
 
 ## Lernreisen
@@ -32,4 +34,4 @@ Mein veröffentlichter Gedankensalat stellt sich strukturell wie folgt dar:
 
 
 [^1]: Second Brain geht auf das von [[60_People/Tiago Forte\|Tiago Forte]] veröffentlichte Buch Build your second brain" zurück.
-[^2]: Diese Aussage impliziert, dass es daneben einen **nicht veröffentlichten** Gedankensalat gibt. Und ja, das ist genau so 😉! 
+[^2]: Diese Aussage impliziert, dass es daneben einen **nicht veröffentlichten** Gedankensalat gibt. Und ja, das ist genau so 😉! Nur wird man den natürlch hier in der Öffentlichkeit nicht. finden.
