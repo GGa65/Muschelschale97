@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/80-outcome/lernreise-ueber-e-portfolios/","tags":["class/outcome"],"created":"2023-10-15T16:48:42.694+02:00","updated":"2023-11-05T14:36:10.000+01:00"}
+{"dg-publish":true,"permalink":"/80-outcome/lernreise-ueber-e-portfolios/","tags":["class/outcome","on/ePortfolio"],"created":"2023-10-15T16:48:42.694+02:00","updated":"2023-11-06T10:11:25.225+01:00"}
 ---
 
 # Lernreise über E-Portfolios
@@ -14,3 +14,4 @@ Die Lernreise haben nun drei Lernbegeisterte im Spätsommer 2023 - nach der ganz
 2. Ich will die Methode einmal beispielhaft angewendet haben, sofern das im Rahmen einer Lernreise überhaupt geht.
 3. Ich will eine Idee davon entwickeln, ob und wenn ja wie die Methode im Kontext beruflichen und persönlichen Wissensmanagements eine Anwendung finden kann.
 
+#on/ePortfolio 
