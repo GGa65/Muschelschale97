@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-admin/index/mo-c-lernreisen/","tags":["class/index"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/00-admin/index/mo-c-lernreisen/","tags":["class/index"],"created":"2023-10-20T21:11:09.247+02:00","updated":"2023-11-06T13:18:06.843+01:00"}
 ---
 
 ## Meine Lernreisen 
