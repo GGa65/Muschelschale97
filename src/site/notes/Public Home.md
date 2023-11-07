@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-home/","tags":["class/outcome","gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-07T21:38:48.605+01:00"}
+{"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-07T21:48:20.296+01:00"}
 ---
 
 | [[00_Admin/_INDEX/Über mich\|Über mich]] | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]] | [Mastodon](https://colearn.social/@gg) |
@@ -28,7 +28,9 @@ Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **ve
 - **[[00_Admin/_INDEX/MoC - TASKS\|MoC - TASKS]]** - das Aufgabenverzeichnis[^4]
 
 **PROJEKTE** 
-- **DIGITAL GARDEN**: **[[00_Admin/_INDEX/MoC - Index GGa65 public\|MoC - Index GGa65 public]]** - der Index meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s[^5]
+- **DIGITAL GARDEN**: 
+	- **[[00_Admin/_INDEX/MoC - Index GGa65 public\|MoC - Index GGa65 public]]** - der Index meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s[^5]
+	- **[[00_Admin/_INDEX/MoC - Public Outcome muschelschale97.vercel.app\|MoC - Public Outcome muschelschale97.vercel.app]]** - der Artikel-Index meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s
 - **lebenslaenglich-lernen.de**: [Ein Lernen-Blog von Gerald G. (lebenslaenglich-lernen.de)](https://lebenslaenglich-lernen.de/)  
 - **[Muschelschale97 ist GGa's Blog – "de omnibus dubitandum"](https://muschelschale97.de/)**
 - **[[00_Admin/_INDEX/MoC - Projekte\|MoC - Projekte]]**[^6] 
