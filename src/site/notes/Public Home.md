@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-home/","tags":["class/outcome","gardenEntry","gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-07T18:53:17.174+01:00"}
+{"dg-publish":true,"permalink":"/public-home/","tags":["class/outcome","gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-07T21:38:48.605+01:00"}
 ---
 
 | [[00_Admin/_INDEX/Über mich\|Über mich]] | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]] | [Mastodon](https://colearn.social/@gg) |
@@ -44,7 +44,7 @@ Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **ve
 **LERNEN**
 - **[[00_Admin/_INDEX/MoC - Lernreisen\|MoC - Lernreisen]]** - ein Verzeichnis meiner Lernpfade
 
----
+
 
 
 [^1]: Der Begriff **Second Brain** geht nach meinem Verständnis auf das von [[60_People/Tiago Forte\|Tiago Forte]] veröffentlichte Buch "Build your second brain" bzw. "Nutzen Sie ihr zweites Gehirn" zurück.
