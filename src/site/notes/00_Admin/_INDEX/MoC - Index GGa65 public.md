@@ -21,6 +21,7 @@
 | [[70_Ressources/Terms/Digital Garden\|Digital Garden]]                                                               | 70_Ressources/Terms | November 06, 2023 |
 | [[70_Ressources/Terms/Frausein\|Frausein]]                                                                           | 70_Ressources/Terms | November 06, 2023 |
 | [[80_outcome/Der Begriff des Portfolios\|Der Begriff des Portfolios]]                                                | 80_outcome          | October 15, 2023  |
+| [[80_outcome/Gedanken zu 21st century skills\|Gedanken zu 21st century skills]]                                      | 80_outcome          | April 15, 2023    |
 | [[80_outcome/Lernreise über E-Portfolios\|Lernreise über E-Portfolios]]                                              | 80_outcome          | October 15, 2023  |
 | [[81_gardening/Lernreise Digitale Zusammenarbeit\|Lernreise Digitale Zusammenarbeit]]                                | 81_gardening        | November 05, 2023 |
 
