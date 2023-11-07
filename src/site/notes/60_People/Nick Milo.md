@@ -29,3 +29,15 @@ Ich bin faul, und befrage deshab einfach ChatGPT danach, wer denn Nick Milo sei.
 
 ---
 Der letzte Spiegelstrich bekommt von mir das Attribut "#attribut/rolling_eyes" verpasst, weil das natürlich eine absolute Tautologie ist.
+
+
+
+#### Nennungen im Vault
+`Im Dataview Code bei FROM [[this file name]] den FileNamen dieses Files eintragen` 
+| Notiz                                       | Ort       | Erstellt          |
+| ------------------------------------------- | --------- | ----------------- |
+| [[Home\|Home]]                           |           | April 24, 2023    |
+| [[10_Zettel/LYT approach\|LYT approach]] | 10_Zettel | April 26, 2023    |
+| [[Public Home\|Public Home]]             |           | November 05, 2023 |
+
+{ .block-language-dataview}
