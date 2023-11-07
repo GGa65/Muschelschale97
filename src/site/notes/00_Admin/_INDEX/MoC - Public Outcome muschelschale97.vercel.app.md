@@ -13,6 +13,7 @@
 | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]]                                                               | 00_Admin/_INDEX | November 05, 2023 |
 | [[00_Admin/_INDEX/Über mich\|Über mich]]                                                                             | 00_Admin/_INDEX | November 05, 2023 |
 | [[80_outcome/Der Begriff des Portfolios\|Der Begriff des Portfolios]]                                                | 80_outcome      | October 15, 2023  |
+| [[80_outcome/Gedanken zu 21st century skills\|Gedanken zu 21st century skills]]                                      | 80_outcome      | April 15, 2023    |
 | [[80_outcome/Lernreise über E-Portfolios\|Lernreise über E-Portfolios]]                                              | 80_outcome      | October 15, 2023  |
 | [[81_gardening/Lernreise Digitale Zusammenarbeit\|Lernreise Digitale Zusammenarbeit]]                                | 81_gardening    | November 05, 2023 |
 
