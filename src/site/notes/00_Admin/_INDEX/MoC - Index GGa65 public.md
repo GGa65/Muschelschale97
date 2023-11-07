@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/00-admin/index/mo-c-index-g-ga65-public/","tags":["class/index","class/outcome"],"created":"2023-11-05T15:42:30.537+01:00","updated":"2023-11-07T17:39:35.146+01:00"}
+{"dg-publish":true,"permalink":"/00-admin/index/mo-c-index-g-ga65-public/","tags":["class/index"],"created":"2023-11-05T15:42:30.537+01:00","updated":"2023-11-07T21:46:28.881+01:00"}
 ---
 
 
-```#class/outcome and dg-publish = true```
+`field dg-publish = true`
 
 | Notiz                                                                                                                   | Ort                 | Erstellt          |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------------- | ----------------- |
