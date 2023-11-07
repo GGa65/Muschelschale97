@@ -12,7 +12,7 @@ Ich bin faul, und befrage deshab einfach ChatGPT danach, wer denn Nick Milo sei.
 - Nick Milo ist ein amerikanischer **Produktivitätstrainer** und der **Schöpfer der "Linking Your Thinking"-Methode** (siehe [[10_Zettel/LYT approach\|LYT approach]], die darauf abzielt, komplexe Informationen durch die Verwendung von Mind Maps und anderen visuellen Techniken zu organisieren.
 - ... keine genauen Informationen über seinen Lebensweg: aber ich habe in Erinnerung, dass er ein ehemaliger Polizist und Manager war, bevor er sich dem Bereich der Produktivität und des Lernens widmete. 
 - Er hat auch einen **Master-Abschluss** in Organisationsentwicklung und verfügt über **mehr als 20 Jahre Erfahrung in der Erwachsenenbildung**.
-- Nick Milo ist der Gründer von "Linking Your Thinking", einem Unternehmen, das sich auf die Bereitstellung von Produkten und Dienstleistungen konzentriert, die Menschen helfen, ihre kreativen Fähigkeiten zu verbessern und ihre Ziele zu erreichen. 
+- Nick Milo ist der Gründer von "[Linking Your Thinking](https://www.linkingyourthinking.com/)", einem Unternehmen, das sich auf die Bereitstellung von Produkten und Dienstleistungen konzentriert, die Menschen helfen, ihre kreativen Fähigkeiten zu verbessern und ihre Ziele zu erreichen. 
 - Er ist auch Autor mehrerer Bücher, darunter "***The Ultimate Guide to Mind Mapping***" und "***Focus in the Age of Distraction***".
 - Nick Milo hat auch auf verschiedenen Konferenzen und Veranstaltungen als **Redner** aufgetreten und gibt regelmäßig Schulungen und Workshops **zur Verbesserung der Produktivität und des Lernens**.
 
