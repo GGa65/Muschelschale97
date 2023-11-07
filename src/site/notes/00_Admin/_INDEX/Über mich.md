@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-admin/index/ueber-mich/","tags":["class/outcome"],"created":"2023-11-05T16:16:13.477+01:00","updated":"2023-11-06T10:22:21.292+01:00"}
+{"dg-publish":true,"permalink":"/00-admin/index/ueber-mich/","tags":["class/admin"],"created":"2023-11-05T16:16:13.477+01:00","updated":"2023-11-07T21:44:24.761+01:00"}
 ---
 
 > [!INFO]   **Über mich**
@@ -20,4 +20,4 @@
 >  
 > Zur Frage, was hier auf dieser Website abgeht, siehe [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]].
 > 
- 
+ class
