@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-admin/index/mo-c-sources/","tags":["class/index"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/00-admin/index/mo-c-sources/","tags":["class/index"],"created":"2023-10-13T15:59:44.506+02:00","updated":"2023-11-06T12:08:01.169+01:00"}
 ---
 
 
@@ -22,7 +22,7 @@
 | [[09_Sources/Schlüsselwerke der Wirtschaftssoziologie - Klaus Kraemer Florian Brugger\|Schlüsselwerke der Wirtschaftssoziologie - Klaus Kraemer Florian Brugger]] | 09_Sources |
 | [[09_Sources/Spiegel_DieUnfassbare_2023-04-14\|Spiegel_DieUnfassbare_2023-04-14]]                                                                                 | 09_Sources |
 | [[09_Sources/The Product Book\|The Product Book]]                                                                                                                 | 09_Sources |
-| [[09_Sources/Tiago Forte - "Nutzen Sie Ihr zweites Gehirn"\|Tiago Forte - "Nutzen Sie Ihr zweites Gehirn"]]                                                       | 09_Sources |
+| [[09_Sources/Tiago Forte - Nutzen Sie Ihr zweites Gehirn\|Tiago Forte - Nutzen Sie Ihr zweites Gehirn]]                                                           | 09_Sources |
 | [[09_Sources/Untitled\|Untitled]]                                                                                                                                 | 09_Sources |
 | [[09_Sources/Wir Angepassten\|Wir Angepassten]]                                                                                                                   | 09_Sources |
 | [[09_Sources/Wurzeln der Portfolioarbeit - woraus das Konzept erwachsen ist\|Wurzeln der Portfolioarbeit - woraus das Konzept erwachsen ist]]                     | 09_Sources |
