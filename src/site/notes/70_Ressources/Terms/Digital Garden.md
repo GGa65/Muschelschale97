@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/70-ressources/terms/digital-garden/","tags":["class/termNote"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/70-ressources/terms/digital-garden/","tags":["class/termNote"],"created":"2023-11-06T10:22:40.226+01:00","updated":"2023-11-07T17:39:34.640+01:00"}
 ---
 
 
