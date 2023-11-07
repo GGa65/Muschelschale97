@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-home/","tags":["class/outcome","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","created":"2023-11-05"}
+{"dg-publish":true,"permalink":"/public-home/","tags":["class/outcome","gardenEntry","gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-07T17:39:37.396+01:00"}
 ---
 
 | [[00_Admin/_INDEX/Über mich\|Über mich]] | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]] |
