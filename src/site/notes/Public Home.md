@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-home/","tags":["class/outcome","gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-07T18:38:17.367+01:00"}
+{"dg-publish":true,"permalink":"/public-home/","tags":["class/outcome","gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-07T18:51:43.909+01:00"}
 ---
 
 | [[00_Admin/_INDEX/Über mich\|Über mich]] | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]] |
@@ -10,7 +10,17 @@ Im Sinne von [[60_People/Nick Milo\|Nick Milo]] und seinem [[10_Zettel/LYT appro
 Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **veröffentlichten** Gedankensalat[^2]. Und mein veröffentlichter Gedankensalat ist **Mein [[70_Ressources/Terms/Digital Garden\|Digital Garden]]**.
 
 --- 
-> [!idea] Mein [[70_Ressources/Terms/Digital Garden\|Digital Garden]] strukturiert sich wie folgt
+## Anstelle eines Vorworts
+> [!error] **Zur Frage der Öffentlichkeit / Nicht-Öffentlichkeit**
+>  
+> --- 
+> > [!QUOTE] **[[60_People/Tiago Forte\|Tiago Forte]] schreibt in "Nutzen Sie ihr zweites Gehirn"**
+> > „Es liegt natürlich immer bei Ihnen, welches Medium Sie für Ihre Notizen wählen, **aber denken Sie daran, dass auch Ihr zweites Gehirn privat ist**. **Sie können bestimmte Notizen teilen**, wenn Sie das wollen, **aber standardmäßig ist alles Niedergeschriebene ausschließlich für Sie selbst bestimmt**.“ 
+> 
+>  
+
+## Content Sheet
+> [!success] Mein [[70_Ressources/Terms/Digital Garden\|Digital Garden]] strukturiert sich wie folgt:
 
 **ADMIN** (nicht alles öffentlich)
 - MoC - Ziele (public) #todo/follow-up dieser Punkt ist quasi "🚧 Under Construction 🚧"
@@ -35,14 +45,6 @@ Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **ve
 - **[[00_Admin/_INDEX/MoC - Lernreisen\|MoC - Lernreisen]]** - ein Verzeichnis meiner Lernpfade
 
 ---
-
-> [!ATTENTION] **Zur Frage der Öffentlichkeit / Nicht-Öffentlichkeit**
-> --- 
-> > [!QUOTE] **Tiago Forte schreibt in "Nutzen Sie ihr zweites Gehirn"**
-> > „Es liegt natürlich immer bei Ihnen, welches Medium Sie für Ihre Notizen wählen, **aber denken Sie daran, dass auch Ihr zweites Gehirn privat ist**. **Sie können bestimmte Notizen teilen**, wenn Sie das wollen, **aber standardmäßig ist alles Niedergeschriebene ausschließlich für Sie selbst bestimmt**.“ 
-> 
->  
-
 
 
 [^1]: Der Begriff **Second Brain** geht nach meinem Verständnis auf das von [[60_People/Tiago Forte\|Tiago Forte]] veröffentlichte Buch "Build your second brain" bzw. "Nutzen Sie ihr zweites Gehirn" zurück.
