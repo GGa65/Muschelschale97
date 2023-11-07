@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-admin/index/ueber-das-projekt/","tags":["class/outcome"],"created":"2023-11-05T16:30:06.379+01:00","updated":"2023-11-05T16:48:16.668+01:00"}
+{"dg-publish":true,"permalink":"/00-admin/index/ueber-das-projekt/","tags":["class/outcome"],"created":"2023-11-05T16:30:06.379+01:00","updated":"2023-11-07T18:44:46.187+01:00"}
 ---
 
 
@@ -13,6 +13,12 @@
 > Es ist darüber hinaus der Versuch, sich in einem längeren Selbstversuch der Frage zu nähern, inwieweit neben Wordpress andere Techniken in den persönlichen Dauergebrauch übernommen werden können.   
 >    
   
+> [!abstract] Wie man mich erreicht.
+> 
+> Der mir liebste Weg für Fragen und Hinweise zum Digital Garden ist der [über Mastodon](https://colearn.social/@gg) 
+> Mein Profil lautet @gg@colearn.social
+> 
+
 
 
 [^1]: Das eigene PKM System meint hier eine Lokale Obsidian-Installation (siehe [Obsidian - Sharpen your thinking](https://obsidian.md/)) mit vielerlei Plugins, die täglich in Benutzung ist.
