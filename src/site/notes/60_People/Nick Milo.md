@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/60-people/nick-milo/","tags":["class/people"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/60-people/nick-milo/","tags":["class/people"],"created":"2023-05-11T18:46:38.352+02:00","updated":"2023-11-07T09:28:49.773+01:00"}
 ---
 
 
