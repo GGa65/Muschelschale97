@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-admin/index/ueber-das-projekt/","tags":["class/admin"],"created":"2023-11-05T16:30:06.379+01:00","updated":"2023-11-07T21:44:27.708+01:00"}
+{"dg-publish":true,"permalink":"/00-admin/index/ueber-das-projekt/","tags":["class/admin"],"noteIcon":""}
 ---
 
 
