@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/80-outcome/der-begriff-des-portfolios/","tags":["class/outcome","on/ePortfolio"],"created":"2023-10-15T18:07:49.143+02:00","updated":"2023-11-06T10:18:05.687+01:00"}
+{"dg-publish":true,"permalink":"/80-outcome/der-begriff-des-portfolios/","tags":["class/outcome","on/ePortfolio"],"noteIcon":""}
 ---
 
 # Der Begriff des Portfolios
