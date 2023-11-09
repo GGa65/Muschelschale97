@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/80-outcome/gedanken-zu-21st-century-skills/","tags":["class/note","class/outcome"],"created":"2023-04-15T00:05:27.287+02:00","updated":"2023-11-07T21:37:34.591+01:00"}
+{"dg-publish":true,"permalink":"/80-outcome/gedanken-zu-21st-century-skills/","tags":["class/note","class/outcome"],"noteIcon":""}
 ---
 
 
