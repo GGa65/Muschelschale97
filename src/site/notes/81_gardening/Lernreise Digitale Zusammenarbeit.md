@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/81-gardening/lernreise-digitale-zusammenarbeit/","tags":["class/outcome","class/note","class/lernreise"],"created":"2023-11-05T14:59:52.000+01:00","updated":"2023-11-06T13:13:56.392+01:00"}
+{"dg-publish":true,"permalink":"/81-gardening/lernreise-digitale-zusammenarbeit/","tags":["class/outcome","class/note","class/lernreise"],"noteIcon":""}
 ---
 
 
