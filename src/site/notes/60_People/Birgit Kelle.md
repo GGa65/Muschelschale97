@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/60-people/birgit-kelle/","tags":["class/people"],"created":"2023-11-06T16:18:23.885+01:00","updated":"2023-11-07T17:39:38.260+01:00"}
+{"dg-publish":true,"permalink":"/60-people/birgit-kelle/","tags":["class/people"],"noteIcon":""}
 ---
 
 #### Über
