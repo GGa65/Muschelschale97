@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry"],"created":"2023-11-05T12:59:57.202+01:00","updated":"2023-11-07T21:48:20.296+01:00"}
+{"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry"],"noteIcon":"","created":"2023-11-05"}
 ---
 
-| [[00_Admin/_INDEX/Über mich\|Über mich]] | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]] | [Mastodon](https://colearn.social/@gg) |
+| [[00_Admin/_INDEX/Über mich\|Über mich]] | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]] | [GGa auf Mastodon](https://colearn.social/@gg) |
 
 # Public Home 
 Im Sinne von [[60_People/Nick Milo\|Nick Milo]] und seinem [[10_Zettel/LYT approach\|LYT approach]] ist dies der zentrale Knoten im Geflecht des sogenannten *Second Brain*[^1].
