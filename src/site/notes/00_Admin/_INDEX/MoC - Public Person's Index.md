@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-admin/index/mo-c-public-person-s-index/","tags":["class/index"],"created":"2023-11-06T14:51:56.682+01:00","updated":"2023-11-07T17:39:37.685+01:00"}
+{"dg-publish":true,"permalink":"/00-admin/index/mo-c-public-person-s-index/","tags":["class/index"],"noteIcon":""}
 ---
 
 ## Menschen - public
