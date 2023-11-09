@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/80-outcome/lernreise-ueber-e-portfolios/","tags":["class/outcome","on/ePortfolio","class/lernreise"],"created":"2023-10-15T16:48:42.694+02:00","updated":"2023-11-06T13:15:48.039+01:00"}
+{"dg-publish":true,"permalink":"/80-outcome/lernreise-ueber-e-portfolios/","tags":["class/outcome","on/ePortfolio","class/lernreise"],"noteIcon":""}
 ---
 
 # Lernreise über E-Portfolios
