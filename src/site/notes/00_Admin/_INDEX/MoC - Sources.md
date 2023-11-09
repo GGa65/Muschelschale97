@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-admin/index/mo-c-sources/","tags":["class/index"],"created":"2023-10-13T15:59:44.506+02:00","updated":"2023-11-06T12:08:01.169+01:00"}
+{"dg-publish":true,"permalink":"/00-admin/index/mo-c-sources/","tags":["class/index"],"noteIcon":""}
 ---
 
 
