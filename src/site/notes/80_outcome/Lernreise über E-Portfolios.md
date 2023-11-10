@@ -14,7 +14,20 @@ Die Lernreise haben nun drei Lernbegeisterte im Spätsommer 2023 - nach der ganz
 2. Ich will die Methode einmal beispielhaft angewendet haben, sofern das im Rahmen einer Lernreise überhaupt geht.
 3. Ich will eine Idee davon entwickeln, ob und wenn ja wie die Methode im Kontext beruflichen und persönlichen Wissensmanagements eine Anwendung finden kann.
 
+## Zum Setup
+- Das Setup ist einfach (im Sinne von nicht kompliziert und wenig komplex):
+	- die TeilnehmerInnen haben sich auf https://web.peerfinder.app/ gefunden
+	- wir sind zu dritt
+	- wir nutzen ein *gemeinsames Miro Board* für die gegenseitige Information und die Dokumentation unserer gemeinsamen treffen
+	- jeder nutzt seine *individuell verfügbaren Publishing-Werkzeuge* (Blog auf Wordpress bzw. Hugo, GitHub, oder eben dieser Digital Garden)
+	- 💡 Hier könnte ich in Absprache mit meinen beiden Mitstreitern BL und GK in Erwägung ziehen auf deren e-Portfolios zu verlinken. #idee - aber dazu muss ich Rücksprache halten. 
 
+## Zum Inhalt
+- [[80_outcome/Lernreise über E-Portfolios\|Lernreise über E-Portfolios]]
+- [[80_outcome/LITERATURLISTE IM KONTEXT PORTFOLIOMETHODE\|LITERATURLISTE IM KONTEXT PORTFOLIOMETHODE]]
+- [[80_outcome/Der Begriff des Portfolios\|Der Begriff des Portfolios]]
+- [[80_outcome/Portfolio-Methode - eine Annäherung an eine Definition\|Portfolio-Methode - eine Annäherung an eine Definition]]
+- [[80_outcome/Vielerlei Portfolios\|Vielerlei Portfolios]]
 
 
 #on/ePortfolio 
