@@ -10,7 +10,7 @@
 | [[Public Home\|Public Home]]                                                                                                  |                     | November 05, 2023 |
 | [[00_Admin/_INDEX/MoC - Index GGa65 public\|MoC - Index GGa65 public]]                                                        | 00_Admin/_INDEX     | November 05, 2023 |
 | [[00_Admin/_INDEX/MoC - Lernreisen\|MoC - Lernreisen]]                                                                        | 00_Admin/_INDEX     | October 20, 2023  |
-| [[00_Admin/_INDEX/MoC - Public Outcome muschelschale97.vercel.app\|MoC - Public Outcome muschelschale97.vercel.app]]          | 00_Admin/_INDEX     | November 05, 2023 |
+| [[00_Admin/_INDEX/MoC - Public Outcome muschelschale97.vercel.app\|MoC - Public Outcome muschelschale97.vercel.app]]          | 00_Admin/_INDEX     | November 07, 2023 |
 | [[00_Admin/_INDEX/MoC - Public Person's Index\|MoC - Public Person's Index]]                                                  | 00_Admin/_INDEX     | November 06, 2023 |
 | [[00_Admin/_INDEX/MoC - Sources\|MoC - Sources]]                                                                              | 00_Admin/_INDEX     | October 13, 2023  |
 | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]]                                                                        | 00_Admin/_INDEX     | November 05, 2023 |
@@ -25,6 +25,7 @@
 | [[80_outcome/Lernreise über E-Portfolios\|Lernreise über E-Portfolios]]                                                       | 80_outcome          | October 15, 2023  |
 | [[80_outcome/LITERATURLISTE IM KONTEXT PORTFOLIOMETHODE\|LITERATURLISTE IM KONTEXT PORTFOLIOMETHODE]]                         | 80_outcome          | October 15, 2023  |
 | [[80_outcome/Portfolio-Methode - eine Annäherung an eine Definition\|Portfolio-Methode - eine Annäherung an eine Definition]] | 80_outcome          | October 15, 2023  |
+| [[81_gardening/Gedanken zu KI\|Gedanken zu KI]]                                                                               | 81_gardening        | November 19, 2023 |
 | [[81_gardening/Lernreise Digitale Zusammenarbeit\|Lernreise Digitale Zusammenarbeit]]                                         | 81_gardening        | November 05, 2023 |
 
 { .block-language-dataview}
