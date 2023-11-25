@@ -22,10 +22,11 @@ Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **ve
 ## Content Sheet
 > [!success] Mein [[70_Ressources/Terms/Digital Garden\|Digital Garden]] strukturiert sich wie folgt:
 
-**ADMIN** (nicht alles öffentlich)
+**ADMIN** (nicht alles ist öffentlich)
 - MoC - Ziele (public) #todo/follow-up dieser Punkt ist quasi "🚧 Under Construction 🚧"
-- **[[00_Admin/_INDEX/MoC - FOLLOW UP\|MoC - FOLLOW UP]]** `#todo/follow-up` - das Follow-Up-Verzeichnis[^3]
-- **[[00_Admin/_INDEX/MoC - TASKS\|MoC - TASKS]]** - das Aufgabenverzeichnis[^4]
+- **[[00_Admin/_INDEX/MoC - FOLLOW UP\|MoC - FOLLOW UP]]** `#todo/follow-up` - das Follow-Up-Verzeichnis[^3] meines PKM-Systems
+- **[[00_Admin/_INDEX/MoC - TASKS\|MoC - TASKS]]** - das Aufgabenverzeichnis[^4] meines PKM Systems
+- 
 
 **PROJEKTE** 
 - **DIGITAL GARDEN**: 
@@ -34,15 +35,16 @@ Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **ve
 - **BLOG(s)**
 	- **lebenslaenglich-lernen.de**: [Ein Lernen-Blog von Gerald G. (lebenslaenglich-lernen.de)](https://lebenslaenglich-lernen.de/)  
 	- **[Muschelschale97 ist GGa's Blog – "de omnibus dubitandum"](https://muschelschale97.de/)**
-- **[[00_Admin/_INDEX/MoC - Projekte\|MoC - Projekte]]**[^6] 
-	- [[MoC - non-confidential projects\|MoC - non-confidential projects]][^7] 
+- **Projekte allgemein**
+	- **[[00_Admin/_INDEX/MoC - Projekte\|MoC - Projekte]]**[^6] 
+		- [[MoC - non-confidential projects\|MoC - non-confidential projects]][^7] 
 
 **ZETTELKASTEN / PKM** (nicht alles öffentlich)
 - **[[00_Admin/_INDEX/MoC - People\|MoC - People]]**[^8]
 	- [[00_Admin/_INDEX/MoC - Public Person's Index\|MoC - Public Person's Index]][^9]
 - **[[00_Admin/_INDEX/MoC - Domains\|MoC - Domains]]** - ein Verzeichnis auf die Ontologie im PKM-System
-- **[[00_Admin/_INDEX/MoC - Sources\|MoC - Sources]]** - ein Verzeichnis der im PKM-System gesammelte Quellen-Notizen
-- MoC - Terms - eine noch zu verarbeitende Idee #todo/follow-up 
+- **[[00_Admin/_INDEX/MoC - Sources\|MoC - Sources]]** - ein Verzeichnis der im PKM-System gesammelten Quellen-Notizen
+- MoC - Terms - eine noch zu verarbeitende Idee #todo/follow-up "🚧 Under Construction 🚧"
 
 **LERNEN**
 - **[[00_Admin/_INDEX/MoC - Lernreisen\|MoC - Lernreisen]]** - ein Verzeichnis meiner Lernpfade
