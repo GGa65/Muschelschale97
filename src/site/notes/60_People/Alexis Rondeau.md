@@ -17,8 +17,9 @@ Seine Vault-Publikation findet sich hier: [Alexis Rondeau´s digital garden](htt
 { .block-language-dataview}
 
 ## Erwähnungen
-| Notiz | Ort | Erstellt |
-| ----- | --- | -------- |
+| Notiz                                                     | Ort                 | Erstellt          |
+| --------------------------------------------------------- | ------------------- | ----------------- |
+| [[70_Ressources/Terms/Digital Garden\|Digital Garden]] | 70_Ressources/Terms | November 06, 2023 |
 
 { .block-language-dataview}
  
