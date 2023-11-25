@@ -17,6 +17,8 @@
 | [[00_Admin/_INDEX/Über mich\|Über mich]]                                                                                      | 00_Admin/_INDEX        | November 05, 2023 |
 | [[00_Admin/00 VAULT Doku/Personen-Notizen\|Personen-Notizen]]                                                                 | 00_Admin/00 VAULT Doku | July 03, 2023     |
 | [[09_Sources/Tiago Forte - Nutzen Sie Ihr zweites Gehirn\|Tiago Forte - Nutzen Sie Ihr zweites Gehirn]]                       | 09_Sources             | November 06, 2023 |
+| [[60_People/Alexis Rondeau\|Alexis Rondeau]]                                                                                  | 60_People              | June 05, 2023     |
+| [[60_People/Anne-Laure Le Cunff\|Anne-Laure Le Cunff]]                                                                        | 60_People              | July 27, 2023     |
 | [[60_People/Birgit Kelle\|Birgit Kelle]]                                                                                      | 60_People              | November 06, 2023 |
 | [[60_People/Nick Milo\|Nick Milo]]                                                                                            | 60_People              | May 11, 2023      |
 | [[70_Ressources/Terms/BANI\|BANI]]                                                                                            | 70_Ressources/Terms    | November 19, 2023 |
