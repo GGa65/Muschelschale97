@@ -15,8 +15,12 @@
 | [[00_Admin/_INDEX/MoC - Sources\|MoC - Sources]]                                                                              | 00_Admin/_INDEX        | October 13, 2023  |
 | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]]                                                                        | 00_Admin/_INDEX        | November 05, 2023 |
 | [[00_Admin/_INDEX/Über mich\|Über mich]]                                                                                      | 00_Admin/_INDEX        | November 05, 2023 |
+| [[00_Admin/00 VAULT Doku/Annotation-Note\|Annotation-Note]]                                                                   | 00_Admin/00 VAULT Doku | July 02, 2023     |
+| [[00_Admin/00 VAULT Doku/Daily Note\|Daily Note]]                                                                             | 00_Admin/00 VAULT Doku | July 06, 2023     |
 | [[00_Admin/00 VAULT Doku/Personen-Notizen\|Personen-Notizen]]                                                                 | 00_Admin/00 VAULT Doku | July 03, 2023     |
+| [[00_Admin/00 VAULT Doku/PKM-Note\|PKM-Note]]                                                                                 | 00_Admin/00 VAULT Doku | July 02, 2023     |
 | [[09_Sources/Tiago Forte - Nutzen Sie Ihr zweites Gehirn\|Tiago Forte - Nutzen Sie Ihr zweites Gehirn]]                       | 09_Sources             | November 06, 2023 |
+| [[10_Zettel/Winter nach Mark Twain\|Winter nach Mark Twain]]                                                                  | 10_Zettel              | April 02, 2023    |
 | [[60_People/Alexis Rondeau\|Alexis Rondeau]]                                                                                  | 60_People              | June 05, 2023     |
 | [[60_People/Anne-Laure Le Cunff\|Anne-Laure Le Cunff]]                                                                        | 60_People              | July 27, 2023     |
 | [[60_People/Birgit Kelle\|Birgit Kelle]]                                                                                      | 60_People              | November 06, 2023 |
