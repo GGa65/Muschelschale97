@@ -31,8 +31,9 @@ Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **ve
 - **DIGITAL GARDEN**: 
 	- **[[00_Admin/_INDEX/MoC - Index GGa65 public\|MoC - Index GGa65 public]]** - der Index meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s[^5]
 	- **[[00_Admin/_INDEX/MoC - Public Outcome muschelschale97.vercel.app\|MoC - Public Outcome muschelschale97.vercel.app]]** - der Artikel-Index meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s
-- **lebenslaenglich-lernen.de**: [Ein Lernen-Blog von Gerald G. (lebenslaenglich-lernen.de)](https://lebenslaenglich-lernen.de/)  
-- **[Muschelschale97 ist GGa's Blog – "de omnibus dubitandum"](https://muschelschale97.de/)**
+- **BLOG(s)**
+	- **lebenslaenglich-lernen.de**: [Ein Lernen-Blog von Gerald G. (lebenslaenglich-lernen.de)](https://lebenslaenglich-lernen.de/)  
+	- **[Muschelschale97 ist GGa's Blog – "de omnibus dubitandum"](https://muschelschale97.de/)**
 - **[[00_Admin/_INDEX/MoC - Projekte\|MoC - Projekte]]**[^6] 
 	- [[MoC - non-confidential projects\|MoC - non-confidential projects]][^7] 
 
