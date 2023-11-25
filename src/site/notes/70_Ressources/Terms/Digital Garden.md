@@ -13,6 +13,12 @@ Das ⬆️ bedeutet, dass die Website [muschelschale97.vercel.app](https://musch
 
 **Digitaler Garten** ist einfach ein schönerer Begriff als der Begriff **"Gedankensalat"**[^1].
 
+### Digitale Gärtner
+... über die ich beim Gärtnern in meinem PKM System immer mal "gestolpert" bin:
+- [[60_People/Anne-Laure Le Cunff\|Anne-Laure Le Cunff]]
+- [[60_People/Alexis Rondeau\|Alexis Rondeau]]
+- 
+
 
 
 
