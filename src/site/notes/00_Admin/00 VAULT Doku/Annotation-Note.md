@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/00-admin/00-vault-doku/annotation-note/","tags":["class/admin"],"noteIcon":""}
 ---
 
+by GGa, 2023-07-02T00:00:00.000+02:00
 
 > [!info] Was ist eine **Annotation-Note**?
 > - eine Annotation-Note ist der **Typ einer Notiz, der Annotationen im Vault "verewigt"** (aus [[Zotero\|Zotero]] oder [[Calibre\|Calibre]] oder direkt vom Kindle-Highlights)
