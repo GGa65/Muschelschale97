@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/80-outcome/literaturliste-im-kontext-portfoliomethode/","tags":["class/outcome"],"noteIcon":""}
 ---
 
+by GGa, 2023-10-15T00:00:00.000+02:00 
+
 Querverweis: Initial veröffentlicht unter https://lebenslaenglich-lernen.de/2023/10/14/literaturliste-im-kontext-portfoliomethode/
 # LITERATURLISTE IM KONTEXT PORTFOLIOMETHODE
-by GGa, 2023-10-13
 
 Eine nachschlagbare Literaturliste zu einem Thema zu haben gehört zu den wertvollsten Assets, die man als Lernender haben kann, ganz gleich ob man studiert, promoviert, sich habilitiert oder einfach so aus eigenem Antrieb ein Lernender ist.
 
