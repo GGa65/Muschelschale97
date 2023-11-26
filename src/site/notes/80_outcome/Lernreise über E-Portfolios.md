@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/80-outcome/lernreise-ueber-e-portfolios/","tags":["class/outcome","on/ePortfolio","class/lernreise"],"noteIcon":""}
 ---
 
+by GGa, 2023-10-15T00:00:00.000+02:00 
+
 # Lernreise über E-Portfolios
 
 Als mit Neugier in vielerlei Hinsicht beschlagener Mensch (oder geplagter Mensch?) bin ich über den [ePortfolio Leitfaden](https://cogneon.github.io/lernos-eportfolio/de/2-0-Lernpfad/) gestolpert. Interessant, denke ich bei mir, kann man sich ja mal näher mit befassen. Als sich dann auf dem [Peerfinder](https://web.peerfinder.app/de) auch noch eine kleine Lerngruppe zusammengefunden hat, war ich dabei.
