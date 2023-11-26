@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/60-people/nick-milo/","tags":["class/people"],"noteIcon":""}
 ---
 
-
+by GGa, 2023-05-11T00:00:00.000+02:00 
 ## Über Nick Milo
 
 Ich bin faul, und befrage deshab einfach ChatGPT danach, wer denn Nick Milo sei.
