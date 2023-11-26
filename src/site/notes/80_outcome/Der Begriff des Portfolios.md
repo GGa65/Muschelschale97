@@ -2,10 +2,9 @@
 {"dg-publish":true,"permalink":"/80-outcome/der-begriff-des-portfolios/","tags":["class/outcome","on/ePortfolio"],"noteIcon":""}
 ---
 
+by GGa, 2023-10-15T00:00:00.000+02:00
+
 # Der Begriff des Portfolios
-by GGa65, 2023-10-08
-
-
 Begriffswelten sind vielfältig, manch ein Begriff hat mehrere Bedeutungen und ist so immer nur im Kontext klar definierbar.
 
 "Der Begriff Portfolio leitet sich aus dem aus dem italienischen _portafoglio_ ab, was sich aus dem Verb _portare_ (tragen) und dem Nomen _foglio_ (Blatt) zusammensetzt." (Häcker 2008, S. 27; vgl. auch Hornung-Prähauser 2007, S. 13).
