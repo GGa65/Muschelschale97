@@ -3,7 +3,7 @@
 ---
 
 ## Menschen - public
-`Alle Notizen zu Menschen, die mit dg-publish = true markeiert sind`
+`Alle Notizen zu Menschen, die mit dg-publish = true markiert sind`
 | Notiz                                                     | Ort       | Erstellt          |
 | --------------------------------------------------------- | --------- | ----------------- |
 | [[60_People/Alexis Rondeau\|Alexis Rondeau]]           | 60_People | June 05, 2023     |
