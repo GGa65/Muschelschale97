@@ -6,7 +6,7 @@
 > 
 > Ich bin GGa, GGa65 oder Muschelschale97, ganz wie es beliebt.
 > 
-> Ich bin ein weißer Mann und Deutscher, Jahrgang 1965 und erkläre im Vollbesitz meiner Sinne: Dafür kann ich nichts und dazu stehe ich! Ich meine, es ist kein eigenes Verdienst, Deutscher von Geburt zu sein oder als Nachkomme weißer Menschen ebenfalls weiß zu sein.  
+> Ich bin ein weißer Mann und Deutscher, Jahrgang 1965 und erkläre im Vollbesitz meiner Sinne: Dafür kann ich nichts und dazu stehe ich! Ich meine, es ist weder Verdienst Deutscher von Geburt zu sein noch als Nachkomme weißer Menschen ebenfalls weiß zu sein.  
 > 
 > Ich bin verheiratet und Vater zweier ganz wunderbar geratenen Töchter. Dafür kann ich was, und sie sind beide das Beste, was mir je passiert ist.
 > 
@@ -18,6 +18,7 @@
 > 
 > Ich liebe Musik, Bücher, schottischen Whisky und gutes Essen (was man mir leider auch ansieht). 
 >  
-> Zur Frage, was hier auf dieser Website abgeht, siehe [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]].
+> Zur Frage, was hier auf dieser Website abgeht, schaut in die Notiz "[[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]]".
 > 
- class
+
+2023-11-05T00:00:00.000+01:00, by GGa 
