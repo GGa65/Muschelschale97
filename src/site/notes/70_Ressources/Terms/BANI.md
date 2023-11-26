@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/70-ressources/terms/bani/","tags":["class/termNote"],"noteIcon":""}
 ---
 
+by GGa, 2023-11-19T00:00:00.000+01:00 
+
 Während **[[70_Ressources/Terms/VUCA\|VUCA]]** die Welt der 1990-er Jahre beschreibt, geht man (wenn man [[Jamai Cascio\|Jamai Cascio]] folgt) davon aus dass es in den 2020-er Jahren ausgedient hat. In [seinem Essay „Facing the age of chaos“](https://medium.com/@cascio/facing-the-age-of-chaos-b00687b1f51d) beschrieb der amerikanische Zukunftsforscher zu Beginn der [Corona Pandemie](https://executiveacademy.at/de/news/detail/post-corona-leadership-wie-die-krise-das-fuehren-von-morgen-veraendert) ein **neues Paradigma**, eine Steigerung von VUCA(DD), umgelegt in zunehmender Unbeständigkeit: **[[70_Ressources/Terms/BANI\|BANI]]**. 
 
 > [!abstract] BANI steht für 
