@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/60-people/birgit-kelle/","tags":["class/people"],"noteIcon":""}
 ---
 
+by GGa, 2023-11-06T00:00:00.000+01:00
+
 #### Über
 - Birgit Kelle arbeitet als freie Journalistin und Autorin. 
 - Sie wurde 1975 in Siebenbürgen, Rumänien, geboren und siedelte als Neunjährige mit ihrer Familie noch aus dem real existierenden Kommunismus nach Deutschland um.
