@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/70-ressources/terms/digital-garden/","tags":["class/termNote"],"noteIcon":""}
 ---
 
+by GGa, 2023-11-06T00:00:00.000+01:00 
 
 > [!quote] **Quote about what a *Digital Garden* is**
 > A digital garden is an online space at the intersection of a notebook and a blog, where digital gardeners share seeds of thoughts to be cultivated in public.
