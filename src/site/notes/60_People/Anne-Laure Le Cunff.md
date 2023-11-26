@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/60-people/anne-laure-le-cunff/","tags":["class/people"],"noteIcon":""}
 ---
 
+by GGa, 2023-07-27T00:00:00.000+02:00 
+
 ## Über
 Anne-Laure Le Cunff ist gemäß ihres LinkedIn-Profils
 - founder of Ness Labs, a learning community where ambitious knowledge workers come together to achieve their goals without sacrificing their mental health (https://nesslabs.com/)
