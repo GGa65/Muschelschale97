@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/81-gardening/gedanken-zu-ki/","tags":["class/outcome"],"noteIcon":""}
 ---
 
+by GGa, 2023-11-19T00:00:00.000+01:00 
+
 ### Gedanken zu KI
 
 - KI ist da und geht nicht mehr weg
