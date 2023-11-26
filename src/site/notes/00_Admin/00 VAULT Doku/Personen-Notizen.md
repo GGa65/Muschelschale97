@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/00-admin/00-vault-doku/personen-notizen/","tags":["class/admin"],"noteIcon":""}
 ---
 
+by GGa, 2023-07-03T00:00:00.000+02:00 
 
 > [!Info] Was ist eine Personen-Notiz?
 > - eine **Personen-Notiz** ist eine Notiz-Typisierung innerhalb des Vaults, die Verwendung findet für Notizen über Menschen wie
