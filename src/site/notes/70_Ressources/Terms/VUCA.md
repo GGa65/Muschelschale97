@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/70-ressources/terms/vuca/","tags":["class/termNote"],"noteIcon":""}
 ---
 
+by GGa, 2023-11-19T00:00:00.000+01:00 
+
 > [!Abstract] VUCA steht für
 > 
 > - Volatilität (***v**olatility*)
