@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/80-outcome/gedanken-zu-21st-century-skills/","tags":["class/note","class/outcome"],"noteIcon":""}
 ---
 
+by GGa, 2023-04-15T00:00:00.000+02:00 
 
 > [!abstract] Was mir so in den Sinn kommt, wenn ich lange über einen Begriff nachdenke. 
 > 
